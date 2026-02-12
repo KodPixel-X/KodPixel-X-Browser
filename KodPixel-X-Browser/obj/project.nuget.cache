@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "SZBittqwXLs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rüya lazer kesim\\Desktop\\KodPixel-X-Browser\\KodPixel-X-Browser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rüya lazer kesim\\.nuget\\packages\\microsoft.web.webview2\\1.0.2478.35\\microsoft.web.webview2.1.0.2478.35.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1603",
+      "level": "Warning",
+      "message": "KodPixel-X-Browser depends on Microsoft.Web.WebView2 (>= 1.0.2421.37) but Microsoft.Web.WebView2 1.0.2421.37 was not found. Microsoft.Web.WebView2 1.0.2478.35 was resolved instead.",
+      "projectPath": "C:\\Users\\rüya lazer kesim\\Desktop\\KodPixel-X-Browser\\KodPixel-X-Browser.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\rüya lazer kesim\\Desktop\\KodPixel-X-Browser\\KodPixel-X-Browser.csproj",
+      "libraryId": "Microsoft.Web.WebView2",
+      "targetGraphs": [
+        "net10.0-windows7.0"
+      ]
+    }
+  ]
+}
